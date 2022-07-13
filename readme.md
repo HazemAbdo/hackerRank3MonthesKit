@@ -7,11 +7,12 @@
   
   ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/plusMinus.js)~~
   ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/miniMaxSum.js)~~
-  ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/timeConversion.js)~~
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/breakingTheRecords.js)~~
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/camelCase.js)~~
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/divisibleSumPairs.js)~~
+  ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/sparseArrays.js)~~
+  ### 8. [] [Week 1 MockTest]()
 </details>
 
 ## Week 2
