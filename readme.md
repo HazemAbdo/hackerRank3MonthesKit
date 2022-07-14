@@ -20,7 +20,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2lonelyInteger.js)~~
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/lonelyInteger.js)~~
   ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/gradingStudents.js)~~
   ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/flippingBits.js)~~
   ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/diagonalDifference.js)~~
