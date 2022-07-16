@@ -37,13 +37,15 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
-  ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/permutingTwoArrays.js)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/subarrayDivision2.js)~~
+  ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/salesbyMatch.js)~~
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/migratoryBirds.js)~~
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/maximumPerimeterTriangle.js)~~
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/zigZagSequence.py)~~
+  ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week3/drawingBook.js)~~
+  ### 8. [] [Week 3 MockTest]()
+
 </details>
 
 ## Week 4
