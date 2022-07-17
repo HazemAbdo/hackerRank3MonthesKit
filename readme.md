@@ -53,13 +53,16 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
-  ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 1. [] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/PickingNumbers.js)
+  ### 2. [] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/LeftRotation.js)
+  ### 3. [] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/numberLineJumps.js)
+  ### 4. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/.js)
+  ### 5. [] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/closestNumbers.js)
+  ### 6. [] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/.js)
+  ### 7. [] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/minimumAbsoluteDifference.js)
+  ### 7. [] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week4/caesarCipher.js)
+  ### 8. [] [Week 4 MockTest]()
+
 </details>
 
 ## Week 5
