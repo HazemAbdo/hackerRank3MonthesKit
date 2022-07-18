@@ -70,9 +70,9 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
-  ### 3. [] [Day 3]()
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/maxMin.js)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/strongPassword.js)~~
+  ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/dynamicArray.js)~~
   ### 4. [] [Day 4]()
   ### 5. [] [Day 5]()
   ### 6. [] [Day 6]()
