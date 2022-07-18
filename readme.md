@@ -73,10 +73,13 @@
   ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/maxMin.js)~~
   ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/strongPassword.js)~~
   ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/dynamicArray.js)~~
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/smartNumber2.js)~~
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/missingNumbers.js)~~
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/theFullCountingSort.js)~~
+  ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/gridChallenge.js)~~
+  ### 8. ~~[x] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week5/sansaAndXOR.js)~~
+  ### 9. [] [Week 5 MockTest]()
+
 </details>
 
 ## Week 6
