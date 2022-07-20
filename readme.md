@@ -87,13 +87,16 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/primeDates.py)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/sherlockAndArray.js)~~
   ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/gamingArray.js)~~
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/formingMagicSquare.js)~~
   ### 6. [] [Day 6]()
   ### 7. [] [Day 7]()
+  ### 8. [] [Day 8]()
+  ### 9. [] [Week 6 MockTest]()
+
 </details>
 
 ## Week 7
