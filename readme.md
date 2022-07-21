@@ -88,13 +88,13 @@
   <summary>Click to expand!</summary>
   
   ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/primeDates.py)~~
-  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/sherlockAndArray.js)~~
-  ### 3. [] [Day 3]()
-  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/gamingArray.js)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/gamingArray.js)~~
+  ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/sherlockAndArray.js)~~
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/misèreNim.js)~~
   ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/formingMagicSquare.js)~~
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
-  ### 8. [] [Day 8]()
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/recursiveDigitSum.js)~~
+  ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/counterGame.js)~~
+  ### 8. ~~[x] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week6/sumVsXor.js)~~
   ### 9. [] [Week 6 MockTest]()
 
 </details>
