@@ -104,8 +104,8 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/theBombermanGame.js)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/newYearChaos.js)~~
   ### 3. [] [Day 3]()
   ### 4. [] [Day 4]()
   ### 5. [] [Day 5]()
