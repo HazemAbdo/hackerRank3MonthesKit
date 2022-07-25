@@ -107,24 +107,27 @@
   ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/theBombermanGame.js)~~
   ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/newYearChaos.js)~~
   ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
+  ### 4. ~~[X] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/sherlockAndValidString.js)~~
   ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 6. ~~[X] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/reverseLinkedList.cpp)~~
+  ### 7. ~~[X] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/reverseDoublyLinkedList.cpp)~~
+  ### 8. ~~[X] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/insertNodeInLinkedList.js)~~
 </details>
 
 ## Week 8
 
 <details>
+
   <summary>Click to expand!</summary>
-  
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
-  ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+
+### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/mergeSortedLL.cpp)~~
+
+### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/hasCycle.cpp)~~
+
+### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/iceCreamParlor.js)~~
+
+### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/insertingInSortedDoublyLL.cpp)~~
+
 </details>
 
 ## Week 9
