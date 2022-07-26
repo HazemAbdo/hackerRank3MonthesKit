@@ -1,19 +1,20 @@
-SinglyLinkedListNode* reverse(SinglyLinkedListNode* llist) {
-    SinglyLinkedListNode *prev=nullptr;
-    SinglyLinkedListNode *next=llist->next;
-    while(llist!=nullptr)
+SinglyLinkedListNode *reverse(SinglyLinkedListNode *llist)
+{
+    SinglyLinkedListNode *prev = nullptr;
+    // we use next so that the list didn't break
+    SinglyLinkedListNode *next = llist->next;
+    while (llist != nullptr)
     {
-        llist->next=prev; 
-        prev=llist;
-        llist=next;    
-        if(next)    
-        next=next->next;
-        if(prev)
-         cout<<prev->data<<endl;
-         if(llist)
-        cout<<llist->data<<endl;
-        if(next)
-        cout<<next->data<<endl;
+        // ll(1)--> next(2)--> 3
+        // null<--prev(1) llist(2)--> next(3)
+        // null<--(1) <--prev(2)--> llist(3) next(null)
+        // null<--(1) <--(2)<-- prev(3) next&&llist(null)
+        // done
+        llist->next = prev;
+        prev = llist;
+        llist = next;
+        if (next)
+            next = next->next;
     }
-   return prev;
+    return prev;
 }

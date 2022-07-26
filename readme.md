@@ -112,22 +112,23 @@
   ### 6. ~~[X] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/reverseLinkedList.cpp)~~
   ### 7. ~~[X] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/reverseDoublyLinkedList.cpp)~~
   ### 8. ~~[X] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week7/insertNodeInLinkedList.js)~~
+  ### 9. [] [Week 7 MockTest]()
 </details>
 
 ## Week 8
 
 <details>
-
   <summary>Click to expand!</summary>
-
-### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/mergeSortedLL.cpp)~~
-
-### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/hasCycle.cpp)~~
-
-### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/iceCreamParlor.js)~~
-
-### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/insertingInSortedDoublyLL.cpp)~~
-
+  
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/mergeSortedLL.cpp)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/hasCycle.cpp)~~
+  ### 3. ~~[X] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/iceCreamParlor.js)~~
+  ### 4. ~~[X] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/insertingInSortedDoublyLL.cpp)~~
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/queueWithTwoStacks.cpp)~~
+  ### 6. ~~[X] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/sherlockAndAnagrams.js)~~
+  ### 7. ~~[X] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/superReducedString.js)~~
+  ### 8. ~~[X] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week8/balancedBrackets.cpp)~~
+  ### 9. [] [Week 8 MockTest]()
 </details>
 
 ## Week 9

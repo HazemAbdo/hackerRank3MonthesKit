@@ -1,3 +1,4 @@
+//TODO refactor this code (no need to frequency the counts)
 function isValid(s) {
   // Write your code here
   //count number of characters with freq less than max freq

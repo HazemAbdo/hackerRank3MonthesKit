@@ -1,3 +1,4 @@
+//TODO revisit this code
 function minimumBribes(q) {
   // Write your code here
   let totalCount = 0;

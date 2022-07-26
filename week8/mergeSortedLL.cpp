@@ -1,3 +1,4 @@
+// TODO refactor this code
 SinglyLinkedListNode *mergeLists(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2)
 {
     SinglyLinkedListNode *smaller = nullptr;

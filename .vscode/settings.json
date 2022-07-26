@@ -3,6 +3,8 @@
     "array": "cpp",
     "vector": "cpp",
     "xstring": "cpp",
-    "limits": "cpp"
+    "limits": "cpp",
+    "stack": "cpp",
+    "queue": "cpp"
   }
 }
