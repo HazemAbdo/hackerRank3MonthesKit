@@ -136,13 +136,16 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### 1. [] [Day 1]()
-  ### 2. [] [Day 2]()
-  ### 3. [] [Day 3]()
-  ### 4. [] [Day 4]()
-  ### 5. [] [Day 5]()
-  ### 6. [] [Day 6]()
-  ### 7. [] [Day 7]()
+  ### 1. ~~[x] [Day 1](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/waiter.cpp)~~
+  ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/stockMaximize.js)~~
+  ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/simpleTextEditor.js)~~
+  ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/equalStacks.js)~~
+  ### 5. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 6. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 7. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 8. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 9. [] [Week 9 MockTest]()
+
 </details>
 
 ## Week 10
