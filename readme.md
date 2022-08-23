@@ -140,10 +140,10 @@
   ### 2. ~~[x] [Day 2](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/stockMaximize.js)~~
   ### 3. ~~[x] [Day 3](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/simpleTextEditor.js)~~
   ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/equalStacks.js)~~
-  ### 5. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
-  ### 6. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
-  ### 7. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
-  ### 8. [] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/coinChange.cpp)~~
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/twoCharacters.js)~~
+  ### 7. [] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
+  ### 8. [] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week9/)
   ### 9. [] [Week 9 MockTest]()
 
 </details>
