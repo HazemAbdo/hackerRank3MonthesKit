@@ -5,6 +5,7 @@
     "xstring": "cpp",
     "limits": "cpp",
     "stack": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "xstddef": "cpp"
   }
 }
