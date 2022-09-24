@@ -12,7 +12,7 @@
   ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/camelCase.js)~~
   ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/divisibleSumPairs.js)~~
   ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/sparseArrays.js)~~
-  ### 8. [] [Week 1 MockTest]()
+  ### 8. ~~[x] [Week 1 MockTest](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week1/week1MockTest.js)~~
 </details>
 
 ## Week 2
@@ -28,7 +28,7 @@
   ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/countingValleys.js)~~
   ### 7. ~~[x] [Day 7](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/pangrams.js)~~
   ### 8. ~~[x] [Day 8](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/marsExploration.js)~~
-  ### 9. [] [Week 2 MockTest]()
+  ### 9. ~~[x] [Week 2 MockTest](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week2/week2MockTest.js)~~
 
 </details>
 
@@ -158,7 +158,7 @@
   ### 3. [] [Day 3]()
   ### 4. ~~[x] [Day 4](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week10/QHEAP1.java)~~
   ### 5. ~~[x] [Day 5](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week10/largestRectangle.js)~~
-  ### 6. [] [Day 6]()
+  ### 6. ~~[x] [Day 6](https://github.com/HazemAbdo/hackerRank3MonthesKit/blob/main/week10/jesseAndCookies.java)~~
   ### 7. [] [Day 7]()
 </details>
 
