@@ -1,18 +1,23 @@
 //NOTE best solution
 //you can think in it as a sliding window
 function birthday(s, d, m) {
-  let i = 0,
-    sum = 0,
-    count = 0;
-  while (i < s.length) {
-    sum += s[i];
-    if (i >= m - 1) {
-      if (i >= m) sum -= s[i - m];
-      if (sum == d) count++;
+  // Write your code here
+  let count = 0;
+  const n = s.length;
+  if (n == 1) {
+    return s[0] == d && m == 1 ? 1 : 0;
+  } else {
+    for (let l = 0; l < n; l++) {
+      let subArrSum = s[l];
+      for (let r = l + 1; r < l + m; r++) {
+        subArrSum += s[r];
+      }
+      if (subArrSum == d) {
+        count++;
+      }
     }
-    i++;
+    return count;
   }
-  return count;
 }
 //------------------------------------------------------------------------------
 // function sumArray(arr) {
